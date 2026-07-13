@@ -1,19 +1,25 @@
 # Personal Portfolio Website
 
-A simple and responsive personal portfolio website built using HTML, CSS, and JavaScript.
+A responsive personal portfolio website created to showcase my frontend development skills, projects, and contact information.
 
 ## Live Demo
 
 🔗https://sreesarank.github.io/Portfolio-Website/
 
 ## Features
+Responsive layout for desktop, tablet, and mobile
 
-* Responsive design
-* About Me section
-* Skills section
-* Projects showcase
-* Contact information
-* Dark mode toggle
+Light and dark theme toggle
+
+Animated scroll-reveal effects
+
+Mobile navigation menu
+
+Circular profile-photo section with fallback avatar
+
+Skills, projects, and contact sections
+
+Links to live projects and GitHub repositories
 
 ## Tech Stack
 
@@ -23,13 +29,13 @@ A simple and responsive personal portfolio website built using HTML, CSS, and Ja
 
 ## Projects Included
 
-### Responsive Landing Page
-
-A responsive landing page built using HTML and CSS.
-
 ### Task Management Dashboard
 
-A task management application with task scheduling, priorities, history, filters, and local storage.
+A task-management web application with task scheduling, priorities, local storage, history, search filters, editing, and dark mode.
+
+### GrowthNest Solutions
+
+A responsive landing page focused on clean visual design, clear calls to action, and mobile-friendly layouts.
 
 ## Author
 
