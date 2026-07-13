@@ -7,19 +7,19 @@ A responsive personal portfolio website created to showcase my frontend developm
 🔗https://sreesarank.github.io/Portfolio-Website/
 
 ## Features
-Responsive layout for desktop, tablet, and mobile
+*Responsive layout for desktop, tablet, and mobile
 
-Light and dark theme toggle
+*Light and dark theme toggle
 
-Animated scroll-reveal effects
+*Animated scroll-reveal effects
 
-Mobile navigation menu
+*Mobile navigation menu
 
-Circular profile-photo section with fallback avatar
+*Circular profile-photo section with fallback avatar
 
-Skills, projects, and contact sections
+*Skills, projects, and contact sections
 
-Links to live projects and GitHub repositories
+*Links to live projects and GitHub repositories
 
 ## Tech Stack
 
